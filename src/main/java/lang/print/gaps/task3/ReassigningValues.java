@@ -6,11 +6,22 @@ public class ReassigningValues {
         int a = 1;
         int b = 10;
         int c = 100;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
         a = 15;
         b = 6;
         c = 4;
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+        a = 1;
+        b = 10;
+        c = 100;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+
+
     }
 }
